@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning - [Learn To Cloud](https://learntocloud.guide/)
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/martin-hurford)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/martin-hurford)
 <!--
 **martinhurford/martinhurford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
